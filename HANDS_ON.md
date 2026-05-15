@@ -34,7 +34,7 @@ npm install
 npm run dev
 ```
 
-ブラウザで開く先は、Codex Appの中でも普通のブラウザでも構いません。
+開発サーバが起動したら、Codex Appのin-app browserで開きます。
 
 ```text
 http://localhost:3000
