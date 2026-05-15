@@ -142,6 +142,8 @@ Codex Appに話しかける入口も、画面で見せた方が早いです。
 
 「作業が進んでいることを、スレッド外にも出せる」例として見せます。
 
+VOICEVOX: https://voicevox.hiroshiba.jp/
+
 使う設定はこれです。
 
 ```text
