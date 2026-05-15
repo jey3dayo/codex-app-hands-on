@@ -1,6 +1,6 @@
 # Agent Handoff Prompt
 
-You are working in `/Users/t00114/src/github.com/jey3dayo/codex-app-hands-on`.
+You are working in this repository.
 
 This repository is for a 30-minute Codex app hands-on session.
 
@@ -90,18 +90,7 @@ Use:
 - `speedScale=1.3`
 - `async=true`
 
-Codex MCP config example:
-
-```toml
-[mcp_servers.mcp-simple-voicevox]
-command = "npx"
-args = ["-y", "@t09tanaka/mcp-simple-voicevox"]
-
-[mcp_servers.mcp-simple-voicevox.env]
-
-[mcp_servers.mcp-simple-voicevox.tools.speak]
-approval_mode = "approve"
-```
+Use `.codex/config.toml` as the Codex project-scoped example for the VOICEVOX MCP server.
 
 ## Voice Control Notes
 

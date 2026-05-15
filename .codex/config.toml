@@ -1,0 +1,8 @@
+[mcp_servers.mcp-simple-voicevox]
+command = "npx"
+args = ["-y", "@t09tanaka/mcp-simple-voicevox"]
+
+[mcp_servers.mcp-simple-voicevox.env]
+
+[mcp_servers.mcp-simple-voicevox.tools.speak]
+approval_mode = "approve"
